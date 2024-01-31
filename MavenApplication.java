@@ -9,6 +9,8 @@ public class MavenApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MavenApplication.class, args);
 
+
+
 	}
 
 }
